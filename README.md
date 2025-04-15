@@ -14,20 +14,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+QR Code Challenge using Flexbox
 
 ### Screenshot
 
-[](./desktop-qr.webp)
+![](./desktop-qr.webp)
 
-[](./mobile-qr.webp)
+![](./mobile-qr.webp)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/winterlamppost/QR-code-challenge)
-- Live Site URL: [Add live site URL here](https://stirring-medovik-d9f841.netlify.app)
+- Live Site URL: [Netlify](https://stirring-medovik-d9f841.netlify.app)
 
 ## My process
 
